@@ -10,7 +10,8 @@
 
     &--primary {
         color: variables.$textColor;
-        background-color: variables.$purple;
+        background-color: variables.$botao;
+        border-radius: 24px;
     }
 
     @media (max-width: 640px) {
